@@ -82,8 +82,6 @@ Random Forest and SVM performed especially well on this dataset.
 * How to manage Python environments using Anaconda
 * How to push ML projects to GitHub properly
 
----
-
 ## 📌 Future Improvements
 
 * Add ROC curve comparison
